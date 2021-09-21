@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "359295005406",
+    "firebase_url": "https://bee-learning.firebaseio.com",
+    "project_id": "bee-learning",
+    "storage_bucket": "bee-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359295005406:android:cf0394d0261053e72f084f",
+        "android_client_info": {
+          "package_name": "com.httgroup.moodle_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359295005406-258rlnnpmi98pr3of8mor2m17v1gv1pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.httgroup.moodle_flutter",
+            "certificate_hash": "31e3de418c0e4e2da5db5f2592b67b279144140e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTKdhVNiKIDBAPuTwsLiqXOPN9Gcc9dsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359295005406-r0nkdeb9f298aaoba8j63750ccaepjej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moodleFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

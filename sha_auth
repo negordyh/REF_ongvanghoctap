@@ -1,0 +1,323 @@
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: debug
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: release
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+
+> Task :firebase_auth:signingReport
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: profileUnitTest
+Config: none
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+
+> Task :firebase_core:signingReport
+Variant: profileUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+
+> Task :firebase_dynamic_links:signingReport
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: profileUnitTest
+Config: none
+----------
+
+> Task :flutter_facebook_auth:signingReport
+Variant: profileUnitTest
+Config: none
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+
+> Task :google_sign_in:signingReport
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: profileUnitTest
+Config: none
+----------
+
+> Task :shared_preferences:signingReport
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: profileUnitTest
+Config: none
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+
+> Task :url_launcher:signingReport
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: profileUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+
+> Task :video_player:signingReport
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: profileUnitTest
+Config: none
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+
+> Task :wakelock:signingReport
+Variant: profileUnitTest
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+
+> Task :webview_flutter:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------
+Variant: profileUnitTest
+Config: none
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\trihi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: B1:02:A5:3C:52:D3:7D:5C:8B:52:4E:35:43:C5:BC:EF
+SHA1: 31:E3:DE:41:8C:0E:4E:2D:A5:DB:5F:25:92:B6:7B:27:91:44:14:0E
+SHA-256: 8F:EB:F5:04:3B:90:34:9D:84:1C:C3:86:58:E7:68:06:8B:C4:39:5B:29:EC:2B:E7:70:7E:8A:99:10:0D:F4:D8
+Valid until: Thursday, 7 July 2050
+----------

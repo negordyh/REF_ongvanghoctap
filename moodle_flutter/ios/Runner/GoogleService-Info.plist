@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>359295005406-7av7pl67j26ctb5j7jadnorfu62lrb03.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.359295005406-7av7pl67j26ctb5j7jadnorfu62lrb03</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>359295005406-258rlnnpmi98pr3of8mor2m17v1gv1pr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDlAL8e7600CDcr411qyx7GoszSO4zGJ2Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>359295005406</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.httgroup.moodleFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>bee-learning</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bee-learning.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:359295005406:ios:6604c550ec79e3262f084f</string>
+	<key>DATABASE_URL</key>
+	<string>https://bee-learning.firebaseio.com</string>
+</dict>
+</plist>
